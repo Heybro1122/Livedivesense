@@ -1,1 +1,6 @@
-
+tesseract
+tree_sitter
+gitpython
+flask
+pytest
+watchdog
